@@ -25,8 +25,13 @@
     "react": "^18",
     "react-dom": "^18",
     "sonner": "^1.2.4",
+    "string-to-color": "^2.2.2",
+    "svix": "^1.19.0",
     "tailwind-merge": "^2.1.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "usehooks-ts": "^2.14.0",
+    "uuid": "^9.0.1",
+    "zustand": "^4.5.1"
   },
   "devDependencies": {
     "@types/node": "^20",
